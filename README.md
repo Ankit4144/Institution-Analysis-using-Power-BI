@@ -63,7 +63,13 @@ Contains global ranking details and performance metrics of educational instituti
 - Created actionable insights using data filters, rankings, and expenditure trends
 - Delivered a clean, structured multi-visual report for stakeholders
 
+## Project Screenshots
 
+###  Tickets Booked Visual
+![Tickets Booked](T_Tickets_Boooked.png)
+
+###  Final Dashboard
+![Final Dashboard](Final_Dashboard.png)
 
 
 
