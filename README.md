@@ -57,6 +57,13 @@ Contains global ranking details and performance metrics of educational instituti
 - Scheduled Data Refresh
 - Multi-Sheet Report Design
 
+## Outcome
+
+- Analyzed trends in public expenditure and their link to institutional performance
+- Created actionable insights using data filters, rankings, and expenditure trends
+- Delivered a clean, structured multi-visual report for stakeholders
+
+
 
 
 
