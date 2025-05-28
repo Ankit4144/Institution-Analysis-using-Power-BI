@@ -65,11 +65,11 @@ Contains global ranking details and performance metrics of educational instituti
 
 ## Project Screenshots
 
-###  Tickets Booked Visual
-![Tickets Booked](T_Tickets_Boooked.png)
+###  Patents by country and quality of faculty
+![Patents by country and quality of faculty](Patent.png)
 
 ###  Final Dashboard
-![Final Dashboard](Final_Dashboard.png)
+![Final Dashboard](F_Dashboard.png)
 
 
 
